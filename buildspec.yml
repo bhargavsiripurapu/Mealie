@@ -2,7 +2,7 @@ version: 0.2
 
 env:
   variables:
-    ECR_REPOSITORY: 519948721701.dkr.ecr.us-east-1.amazonaws.com/mealie
+    ECR_REPOSITORY: 163684027595.dkr.ecr.us-east-2.amazonaws.com/mealie
 phases:
   pre_build:
     commands:
