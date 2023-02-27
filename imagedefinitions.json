@@ -1,6 +1,6 @@
 [
     {
         "name": "mealie",
-        "imageUri": "163684027595.dkr.ecr.us-east-2.amazonaws.com/mealie:latest"
+        "imageUri": "054263937699.dkr.ecr.us-west-1.amazonaws.com/mealie:latest"
     }
 ]
